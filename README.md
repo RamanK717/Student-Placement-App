@@ -32,7 +32,7 @@ An end-to-end Machine Learning web application that predicts the resale price of
 The repository is engineered according to institutional production guidelines, strictly separating static client UI assets from data matrix operations:
 
 ```text
-📁 car-price-prediction-app/
+📁 Student-Placement-App/
 │
 ├── 📁 static/
 │   └── 📄 style.css            # Custom forest green user interface theme
